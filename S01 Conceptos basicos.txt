@@ -16,7 +16,7 @@
  *  * : multiplicacion
  *  / : division
  *  % : modulo (retorna el residuo de un numero dividio por x numero) Ejemplo: 10 % 2 = 0 , 10 % 3 = 1
- *  ++ : incremento (suma 1 al valor de una variable)
+ *  ++ : incremento (suma 1 al valor de una variable) 
  *  -- : decremento (resta 1 al valor de una variable)
  *
  *  Operadores relacionales
